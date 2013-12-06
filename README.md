@@ -64,6 +64,4 @@ For WiFi, you must follow all the steps above, but before the hoster runs the se
 License
 -------
 
-MIT
-
-*Free Software, Hell Yeah!*
+Copyright 2013 Beau Taylor-Ladd
