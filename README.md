@@ -4,6 +4,27 @@ Version
 -------
 ß 1.2.0
 
+Screenshots
+-----------
+Launcher
+![Screenshot of Launcher](http://i.imgur.com/RdlTZL8.png)
+
+View of the spawn area
+![Screenshot 1](http://i.imgur.com/neAVbjF.png)
+
+View of character in water
+![Screenshot 2](http://i.imgur.com/hZELzSx.png)
+
+View of multiplayer, foreground-background, directional moving and health (the numbers above the name are place holders)
+![Screenshot 3](http://i.imgur.com/QcpoxcA.png)
+
+View of images used to create the map, first being the background, and the second being the foreground
+![Screenshot 4](http://i.imgur.com/oAOigZs.png)
+![Screenshot 5](http://i.imgur.com/juW3XEz.png)
+
+Foreground and background blended together
+![Screenshot 6](http://i.imgur.com/eL3GQea.png)
+
 Installation
 --------------
 You must have Java installed to run the program.
